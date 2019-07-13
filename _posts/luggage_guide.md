@@ -1,3 +1,9 @@
+---
+title: "Luggage Guide"
+header:
+    image: "/images/resized.jpg" 
+---
+
 # Luggage list  
 **Important list:**  
 1. Passport
