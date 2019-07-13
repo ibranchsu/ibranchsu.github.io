@@ -7,4 +7,4 @@ header:
 
 # Pre-departure Posts  
 
-{{ site.baseurl }}{% permalink: /luggageguide/ Luggage %}
+{{ site.baseurl }}{% /luggageguide/ Luggage %}
