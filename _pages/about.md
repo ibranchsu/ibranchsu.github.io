@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/images/ext.jpeg"
+    image: "/images/resized.jpg"
 ---
 
 Founded in 2012 at the iSchool, iBranch carries out our mission by providing academic and professional support to Chinese graduate students, and to help all students adapt to the diversified cultural environment.
