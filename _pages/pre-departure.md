@@ -1,10 +1,7 @@
 ---
-title: "Pre-departture"
+title: "Pre-Departture Posts"
 permalink: /predeparture/
 header:
     image: "/images/resized.jpg"
 ---
-
-# Pre-departure Posts  
-
-Happy
+{{ liamliang.github.io }}{% _posts/2019-07-13-luggage-guide.md %}
