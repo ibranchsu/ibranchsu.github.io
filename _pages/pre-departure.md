@@ -1,10 +1,10 @@
 ---
 title: "Pre-departture"
-permalink: /pre-departure/
+permalink: /predeparture/
 header:
     image: "/images/resized.jpg"
 ---
 
 # Pre-departure Posts  
 
-{{ site.baseurl }}{% /luggageguide/ Luggage %}
+Happy

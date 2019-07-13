@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Pre-Departure"
-    url: /pre-departure/
+    url: /predeparture/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
