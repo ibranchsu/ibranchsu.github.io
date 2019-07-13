@@ -4,4 +4,4 @@ permalink: /predeparture/
 header:
     image: "/images/resized.jpg"
 ---
-[Link]{{ liamliang.github.io }}{% link _posts/2019-07-13-luggage-guide.md %}
+[Link]({{ '_posts/2019-07-13-luggage-guide.md' | relative_url }})
