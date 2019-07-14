@@ -16,5 +16,5 @@ For further information, please contact student e-Board members, listed below.
 
   
 Shuying Zhao: szhao34@syr.edu    
-Ruifeng Chen: rchen40@g.syr.edu     
+Ruifeng Chen: rchen40@syr.edu     
 Lizhen Liang: lliang06@syr.edu    
