@@ -4,7 +4,7 @@ permalink: /flightguide/
 header:
     image: "/images/resized.jpg" 
 ---
-# Flight Guide    
+
 ## Booking guide   
 Freshmen can check the ticket on the relevant website in advance when purchasing tickets.  Generally speaking, they are supposed to book tickets 3-6 weeks in advance.    
 Fall and spring starting dates are different. The recommended time is to arrive in Syracuse one week before the start of school. Most schools will have 3-7 days of fresh Orientation activities before the official start of the school, so it is best to know the exact time before starting the ticket purchase. At present, you can purchase international air tickets in the following ways:     
