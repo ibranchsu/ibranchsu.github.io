@@ -7,10 +7,10 @@ header:
 # Flight Guide    
 ## Booking guide   
 Freshmen can check the ticket on the relevant website in advance when purchasing tickets. Generally speaking, they are supposed to book tickets 3-6 weeks in advance. Fall and spring starting dates are different. The recommended time is to arrive in Syracuse one week before the start of school. Most schools will have 3-7 days of fresh Orientation activities before the official start of the school, so it is best to know the exact time before starting the ticket purchase. At present, you can purchase international air tickets in the following ways: a. Purchasing points through third-party tickets: It is a window similar to train tickets and ticket sales points. In this way, the staff will charge extra fees, and many sales personnel in order to win a higher commission, students and parents are not really advised to buy a value-for-money ticket.  b. Purchase through the official website of the company or official phone. c. Purchase through domestic Ctrip.com, Qunar.com: This kind of website is a third-party service platform. The comprehensive comparison is quite convenient, and you can shop around. But the bad thing is that although the price is cheaper than the sales window, but it is not cheap enough. Below are a few commonly used bookings for booking tickets.   
-![JFK Air train](http://www.panynj.gov/airtrain/) 
-![train](http://www.amtrak.com/)
-![greyhound](http://www.greyhound.com/) 
-![flight](http://www.orbitz.com/)
+[JFK Air train](http://www.panynj.gov/airtrain/) 
+[train](http://www.amtrak.com/)
+[greyhound](http://www.greyhound.com/) 
+[flight](http://www.orbitz.com/)
 
 ## Boarding   
 The first step: consign the baggage, get a boarding pass. When you check in (for boarding pass and checked baggage), you will need to show your passport (w/visa), ticket (if it is a paper ticket), or you may be required to show the I-20. The airline staff will attach or hang a barcoded bar code to each of your checked baggage boxes and give you a baggage barcode stub. Take a look at the information printed on it (eg: where your baggage will end up.) If you want to transfer your flight, please carefully understand where your luggage needs to be picked up and where you need to check-in again. These staff will explain it to you in detail. If you don't understand, you must ask for it in time. Please also check the boarding pass (Caring Pass), such as which gate to board and your seat number, when to start boarding, and the end of the boarding Deadline, etc.    
