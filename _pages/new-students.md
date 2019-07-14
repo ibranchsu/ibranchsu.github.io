@@ -9,3 +9,4 @@ header:
 
 - [Luggage Guide]({% post_url 2019-07-13-luggage-guide %})   
 - [Mobile Plan Guide]({% post_url 2019-07-14-mobile-plan-guide %})
+- [Flight Guide]({% post_url 2019-07-14-flight-guide %})
