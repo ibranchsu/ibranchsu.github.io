@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Pre-Departure"
-    url: /predeparture/
+  - title: "New Students"
+    url: /newstudents/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
