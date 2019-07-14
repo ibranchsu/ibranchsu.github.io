@@ -7,4 +7,5 @@ header:
 
 ## Pre-Departure Posts   
 
-[Luggage Guide]({% post_url 2019-07-13-luggage-guide %})
+- [Luggage Guide]({% post_url 2019-07-13-luggage-guide %})   
+- [Mobile Plan Guide]({% post_url 2019-07-14-mobile-plan-guide %})
