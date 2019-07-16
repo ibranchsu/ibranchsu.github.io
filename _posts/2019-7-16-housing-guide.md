@@ -81,5 +81,7 @@ Website: http://www.uvcolvin.com/
 Current students' comments:     
     - Pros: Fully furniture, newly built, all utilities and internet provided, very convenient transportation, gym and study room provided, free printing, free coffee. Safe with DPS patrolling.     
     - Cons: Many undergraduate students living there, noisy in the night and in weekends, expensive.      
-Utility Fees     
+    
+
+**Utility Fees**          
 According to the different housing with different supply, students need to be more careful about the water, electric and heating fees which would be not included in the rental fees. Students also need to figure the internet fee because majority housings did not offer free Wi-Fi.     
