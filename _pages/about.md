@@ -4,7 +4,8 @@ permalink: /about/
 header:
     image: "/images/resized.jpg"
 ---
-
+![iBranch](/images/logo.png)      
+     
 Our mission is to empower our iSchool peers.   
    
 Founded in 2012 at iSchool, we carry out our mission by providing academic and professional support to Chinese graduate students, and to help all students adapt to the diversified cultural environment.   
