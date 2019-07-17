@@ -36,5 +36,6 @@ The cost is cheaper than both of the above, but the network and signal coverage 
         
         
           
-[homepage]({% link index.html %}) 
+[homepage]({% link index.html %}){: .btn .btn--primary}      
+[Menu]({% link _pages/new-students.md %}){: .btn .btn--primary}   
 

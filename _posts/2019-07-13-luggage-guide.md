@@ -67,7 +67,7 @@ Umbrella | 1
         
         
           
-[homepage]({% link index.html %}) 
+[homepage]({% link index.html %}){: .btn .btn--primary}
 
 
 
