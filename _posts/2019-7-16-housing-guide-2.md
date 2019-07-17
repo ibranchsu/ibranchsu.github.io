@@ -111,3 +111,8 @@ Website: https://www.americancampus.com/student-apartments/ny/syracuse/park-poin
 Current sdtudents' comments:        
     - Pros: walking distance, convenient fully furnished       
     - Cons: expensive       
+
+          
+               
+                        
+[homepage]({% link index.html %}){: .btn .btn--primary}      [Menu]({% link _pages/new-students.md %}){: .btn .btn--primary}   
