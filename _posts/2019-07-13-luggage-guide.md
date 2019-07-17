@@ -1,8 +1,6 @@
 ---
 title: "Luggage Guide"
 permalink: /luggageguide/
-header:
-    image: "/images/resized.jpg" 
 ---
 
 **Important list:**  

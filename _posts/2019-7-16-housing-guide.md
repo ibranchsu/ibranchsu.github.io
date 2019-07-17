@@ -1,8 +1,6 @@
 ---
 title: "Housing Guide"
 permalink: /housingguide/
-header:
-    image: "/images/resized.jpg" 
 ---  
 **Housing Information**      
       

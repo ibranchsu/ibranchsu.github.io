@@ -1,8 +1,6 @@
 ---
 title: "Flight Guide"
 permalink: /flightguide/
-header:
-    image: "/images/resized.jpg" 
 ---
 
 ## Booking guide   
