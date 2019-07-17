@@ -1,5 +1,6 @@
 ---
 title: "Mobile Plan Guide"
+layout: splash
 permalink: /mobileguide/
 header:
     image: "/images/resized.jpg" 
