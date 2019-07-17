@@ -1,8 +1,7 @@
 ---
-title: "Housing Guide"
+title: "Housing Guide: Longer Distance to Campus"
 permalink: /housingguide/
----  
-**Housing Information**      
+---    
       
 with the help of iGrad      
           

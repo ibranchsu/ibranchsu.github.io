@@ -10,4 +10,5 @@ header:
 - [Luggage Guide]({% post_url 2019-07-13-luggage-guide %})   
 - [Mobile Plan Guide]({% post_url 2019-07-14-mobile-plan-guide %})
 - [Flight Guide]({% post_url 2019-07-14-flight-guide %})
-- [Housing Guide]({% post_url 2019-07-16-housing-guide %})
+- [Housing Guide: Long Distance to Campus]({% post_url 2019-07-16-housing-guide %})
+- [Housing Guide: Walking Distance to Campus]({% post_url 2019-07-16-housing-guide-2 %})
