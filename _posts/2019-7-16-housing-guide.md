@@ -92,4 +92,4 @@ According to the different housing with different supply, students need to be mo
         
         
           
-[homepage]({% link index.html %}) 
+[homepage]({% link index.html %}) {: .btn .btn--primary .btn--large}
