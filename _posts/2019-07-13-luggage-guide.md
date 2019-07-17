@@ -57,16 +57,11 @@ Item | Number
 Conversion plug | 1
 Nail clipper | 1
 Flash | 1
-Umbrella | 1
+Umbrella | 1       
            
-               
-        
-            
-         
-         
-        
-        
-          
+                
+                       
+                       
 [homepage]({% link index.html %}){: .btn .btn--primary}
 
 
