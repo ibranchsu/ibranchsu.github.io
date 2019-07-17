@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/images/resized.jpg"
+    image: "/images/resized_0.jpg"
 ---
 ![iBranch](/images/logo.png)      
      

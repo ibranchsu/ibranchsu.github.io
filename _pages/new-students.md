@@ -2,7 +2,7 @@
 title: "New Students"
 permalink: /newstudents/
 header:
-    image: "/images/resized.jpg"
+    image: "/images/resized_0.jpg"
 ---
 
 ## Pre-Departure Posts   
