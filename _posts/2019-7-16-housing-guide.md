@@ -83,3 +83,13 @@ Current students' comments:
 
 **Utility Fees**          
 According to the different housing with different supply, students need to be more careful about the water, electric and heating fees which would be not included in the rental fees. Students also need to figure the internet fee because majority housings did not offer free Wi-Fi.     
+           
+               
+        
+            
+         
+         
+        
+        
+          
+[homepage]({% link index.html %}) 

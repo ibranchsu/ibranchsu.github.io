@@ -30,5 +30,11 @@ The cost is cheaper than both of the above, but the network and signal coverage 
            
                
         
+            
+         
+         
+        
+        
+          
 [homepage]({% link index.html %}) 
 

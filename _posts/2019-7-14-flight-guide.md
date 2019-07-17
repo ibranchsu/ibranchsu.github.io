@@ -64,3 +64,13 @@ After getting off the plane, look for the arrival hall and queue up at the Non-U
        
 ## Pick-up service           
 Before arriving in Syracuse, you can contact local student organizations. In addition to the school's freshman's office, the school and some college student unions will also provide pick-up service. The pick-up from New York JFK airport to the temporary accommodation is about 50 dollars. The school provides safe and reliable services for the new students. Of course, it is better if you have a friend who is available to pick you up.       
+           
+               
+        
+            
+         
+         
+        
+        
+          
+[homepage]({% link index.html %}) 
