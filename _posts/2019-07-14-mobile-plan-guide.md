@@ -1,9 +1,6 @@
 ---
 title: "Mobile Plan Guide"
-layout: splash
 permalink: /mobileguide/
-header:
-    image: "/images/resized.jpg" 
 ---
 
 There are three mainstream communication operators in the US: Verizon、AT&T、T-Mobile, Sprint.   
