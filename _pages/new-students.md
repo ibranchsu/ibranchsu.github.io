@@ -12,3 +12,5 @@ header:
 - [Flight Guide]({% post_url 2019-07-14-flight-guide %})
 - [Housing Guide: Long Distance to Campus]({% post_url 2019-07-16-housing-guide %})
 - [Housing Guide: Walking Distance to Campus]({% post_url 2019-07-16-housing-guide-2 %})
+- [Health Insurance]({% post_url 2019-07-18-health-insurance %})   
+- [Dental and Vision Plans]({% post_url 2019-07-18-dental-vision %})   
