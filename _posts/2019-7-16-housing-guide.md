@@ -91,4 +91,4 @@ According to the different housing with different supply, students need to be mo
         
         
           
-[homepage]({% link index.html %}){: .btn .btn--primary}      [Menu]({% link _pages/new-students.md %}){: .btn .btn--primary}   
+[homepage]({% link index.html %}){: .btn .btn--primary}      [Menu]({% link _pages/newstudents.html %}){: .btn .btn--primary}   

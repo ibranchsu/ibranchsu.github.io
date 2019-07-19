@@ -62,7 +62,7 @@ Umbrella | 1
                 
                        
 
-[homepage]({% link index.html %}){: .btn .btn--primary}      [Menu]({% link _pages/new-students.md %}){: .btn .btn--primary}   
+[homepage]({% link index.html %}){: .btn .btn--primary}      [Menu]({% link _pages/newstudents.html %}){: .btn .btn--primary}   
 
 
 

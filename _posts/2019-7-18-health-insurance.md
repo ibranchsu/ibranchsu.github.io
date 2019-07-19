@@ -85,6 +85,11 @@ The 2019-2020 Student Health Insurance Plan is a co-pay/co-insurance model, mean
       
 Understanding your plan and benefits can help you minimize your costs – consider exclusions, referral requirements, and appropriate emergency room usage when considering your options, and use in-network providers whenever possible to help reduce potential costs.     
      
-Students with concerns regarding their bills or claims should contact the Student Health Insurance Office at 315.443.9019 to set up an appointment. Students should bring their insurance card and any documentation and bills with them to the appointment.       
+Students with concerns regarding their bills or claims should contact the Student Health Insurance Office at 315.443.9019 to set up an appointment. Students should bring their insurance card and any documentation and bills with them to the appointment.          
+        
+                   
+                                 
+                                          
+[homepage]({% link index.html %}){: .btn .btn--primary}      [Menu]({% link _pages/newstudents.html %}){: .btn .btn--primary}   
 
  

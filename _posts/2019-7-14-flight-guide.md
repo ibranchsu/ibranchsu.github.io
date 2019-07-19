@@ -73,4 +73,4 @@ Before arriving in Syracuse, you can contact local student organizations. In add
         
         
           
-[homepage]({% link index.html %}){: .btn .btn--primary}      [Menu]({% link _pages/new-students.md %}){: .btn .btn--primary}   
+[homepage]({% link index.html %}){: .btn .btn--primary}      [Menu]({% link _pages/newstudents.html %}){: .btn .btn--primary}   

@@ -29,4 +29,10 @@ To enroll in the graduate student dental and/or vision plans:
 •	Under the Student Services section, click the ‘Vision/Dental Enroll-Optional’ link listed under Student Health Insurance
 - Review the enrollment information page
 - If you would like to enroll in either or both plans, click the ‘Enroll’ button
-- Complete the enrollment form and click the ‘Submit’ button
+- Complete the enrollment form and click the ‘Submit’ button    
+
+       
+         
+                   
+                            
+[homepage]({% link index.html %}){: .btn .btn--primary}      [Menu]({% link _pages/newstudents.html %}){: .btn .btn--primary}   
