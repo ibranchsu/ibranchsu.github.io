@@ -2,7 +2,7 @@
 title: "Housing Guide: Within Walking Distance to Campus"
 permalink: /housingguide2/
 ---  
-with the help of iGrad       
+The content was originally created by iGrad and now edited by iBranch.          
         
 Follwing is a list of housing options within walking distance to campus. Information was gathered from apartment website and current students' feedback. Special thanks to all current students who have kindly provided valuable information.      
        

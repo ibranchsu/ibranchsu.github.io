@@ -3,7 +3,7 @@ title: "Housing Guide: Longer Distance to Campus"
 permalink: /housingguide/
 ---    
       
-with the help of iGrad      
+The content was originally created by iGrad and now edited by iBranch.          
           
 Following is a list of housing options that have longer distance to campus (not within walking distance). Information was gathered from apartment website and current students' feedback. Special thanks to all current students who have kindly provided valuable information.      
 - Clarendon Heights Apartments      
