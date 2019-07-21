@@ -13,7 +13,7 @@ permalink: /luggageguide/
 7. International Certificate of Vaccination 
 8. School offer
 9. Undergraduate Transcript
-10. All the materials you prepared for visa
+10. All the materials you prepared for the visa
 11. Crash
 12. Spare glasses
 13. Tissue
@@ -37,7 +37,7 @@ Trench | 1
 T-shirt | 3-4
 Pajama | 1
 Formal dress | 1
-flip flop | 1  
+Flip flop | 1  
 
 **When you arrive at home at night, you cannot go to the supermarket, you may need**
 
@@ -49,7 +49,7 @@ Cover | 1
 Quilt | 1
 Pillow | 1  
 
-**Some small commodities are expensive in US, you may need these**  
+**Some small commodities are expensive in the US, you may need these**  
 
 
 Item | Number
