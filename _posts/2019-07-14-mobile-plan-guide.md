@@ -3,29 +3,28 @@ title: "Mobile Plan Guide"
 permalink: /mobileguide/
 ---
 
-There are three mainstream communication operators in the US: Verizon、AT&T、T-Mobile, Sprint.   
+There are four mainstream communication operators in the US: Verizon, AT&T, T-Mobile and Sprint.   
 
 **Verizon**   
      
-Verizon has the strongest signal, but it is also expensive. Data traffic packages are divided into S, M, L, XL, XXL packages, L-level packages and above can have a Bonus per Line. Compared with AT&T, higher price and less traffic.   
+Verizon has the strongest signal, yet it is expensive. Options for data traffic plans range from S, M, L, XL, XXL, L-level with Bonuses per Line.   
 [Verizon](https://www.verizonwireless.com/plans/#single)  
-![Verrizen pic](/images/mobile-0.jpg)
+![Verrizen pic](/images/mobile-0.jpg)  
 
 
 **AT&T**   
     
-AT&T is the most popular in international student.  It is more economic and affordable for students.  Also, Cell phone signal and network are good.  Below 3 mobile phones (excluding 3), the access fee for each mobile phone is $25; For 3 mobile phones and more than 3 mobile phones, the access fee for each mobile phone is $15. Family Plan is most popular, but at least need 5 people to join.
+AT&T is the most popular in international student.  It is more economic and affordable for students.  Also, Cell phone signal and network are good.  Below 3 mobile phones (excluding 3), the access fee for each mobile phone is $25; For 3 mobile phones and more than 3 mobile phones, the access fee for each mobile phone is $15. Family Plan is the most popular among all the options, and it is up to 5 people to join.  
 
 - Prepaid Plan   
-![Prepaid pic](/images/mobile-1.jpg)
+![Prepaid pic](/images/mobile-1.jpg)  
 
 - Family Plan   
-![Family pic](/images/mobile-2.jpg)
+![Family pic](/images/mobile-2.jpg)  
 
 **T-Mobile**   
-
     
-The cost is cheaper than both of the above, but the network and signal coverage are poor. It is still enough to satisfy your daily life.   
+T-Mobile has the cheapest plan of all the options.  You get limited network and signal coverage for the price, yet it is sufficient for daily use.  
 ![TMoblie pic](/images/mobile-3.jpg)           
        
 
