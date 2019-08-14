@@ -3,6 +3,8 @@ title: "Student Health Plan"
 permalink: /healthinsurance/
 ---
 **Student Health Insurance Plan Eligibility and Coverage**   
+  
+Source: http://healthinsurance.syr.edu/  
            
 All full-time, matriculated undergraduate, graduate and law students are eligible for the Student Health Insurance Plan. Once per academic year, eligible students must enroll in or waive out of the Student Health Insurance Plan with alternate qualifying coverage through their MySlice account.      
       
