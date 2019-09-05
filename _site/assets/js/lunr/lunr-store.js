@@ -1,11 +1,11 @@
 var store = [{
         "title": "Luggage Guide",
-        "excerpt":"Important list: Passport Visa card Driving license I20 Toefl，GRE，GMAT Transcripts Certificate of Health Examination International Certificate of Vaccination School offer Undergraduate Transcript All the materials you prepared for the visa Crash Spare glasses Tissue Neck pillow What you may need in your checked luggage Syracuse is close to the Great...","categories": [],
+        "excerpt":"Important list: Passport, I20 VISA card, Cash Driver’s license TOEFL，GRE，GMAT Transcripts Certificate of Health Examination Immunizaton Form Admission letter Undergraduate Transcript Other materials you prepared for the visa (i.e. Proof of Deposit ) Spare glasses Neck pillow What you may need in your checked luggage Syracuse is located near the...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/luggageguide/",
         "teaser":null},{
         "title": "Mobile Plan Guide",
-        "excerpt":"There are three mainstream communication operators in the US: Verizon、AT&amp;T、T-Mobile, Sprint. Verizon Verizon has the strongest signal, but it is also expensive. Data traffic packages are divided into S, M, L, XL, XXL packages, L-level packages and above can have a Bonus per Line. Compared with AT&amp;T, higher price and...","categories": [],
+        "excerpt":"There are four mainstream communication operators in the US: Verizon, AT&amp;T, T-Mobile and Sprint. Verizon Verizon has the strongest signal, yet it is expensive. Options for data traffic plans range from S, M, L, XL, XXL, L-level with Bonuses per Line. Verizon AT&amp;T AT&amp;T is the most popular in international...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/mobileguide/",
         "teaser":null},{
@@ -25,12 +25,12 @@ var store = [{
         "url": "http://localhost:4000/housingguide/",
         "teaser":null},{
         "title": "Dental and Vision Plans",
-        "excerpt":"Full-time, matriculated graduate and law students are eligible for the graduate student dental and vision insurance plans. The 2019-20 plans’ features will be available soon and posted to this page. Pricing information is as follows: 2019-20 Dental Preventative Low Plan (Monthly Rates) Grad/law student only – $17.35 Grad/law student and...","categories": [],
+        "excerpt":"Source: https://hr.syr.edu/benefits/health-benefits/dental-and-vision Full-time, matriculated graduate and law students are eligible for the graduate student dental and vision insurance plans. The 2019-20 plans’ features will be available soon and posted to this page. Pricing information is as follows: 2019-20 Dental Preventative Low Plan (Monthly Rates) Grad/law student only – $17.35 Grad/law...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/dentalvision/",
         "teaser":null},{
         "title": "Student Health Plan",
-        "excerpt":"Student Health Insurance Plan Eligibility and Coverage All full-time, matriculated undergraduate, graduate and law students are eligible for the Student Health Insurance Plan. Once per academic year, eligible students must enroll in or waive out of the Student Health Insurance Plan with alternate qualifying coverage through their MySlice account. The...","categories": [],
+        "excerpt":"Student Health Insurance Plan Eligibility and Coverage Source: http://healthinsurance.syr.edu/ All full-time, matriculated undergraduate, graduate and law students are eligible for the Student Health Insurance Plan. Once per academic year, eligible students must enroll in or waive out of the Student Health Insurance Plan with alternate qualifying coverage through their MySlice...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/healthinsurance/",
         "teaser":null},{
