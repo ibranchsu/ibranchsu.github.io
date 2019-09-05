@@ -1,8 +1,11 @@
 ---
 title: "Dental and Vision Plans"
 permalink: /dentalvision/
----
+---  
+  
+Source: https://hr.syr.edu/benefits/health-benefits/dental-and-vision  
 
+  
 Full-time, matriculated graduate and law students are eligible for the graduate student dental and vision insurance plans.       
           
 The 2019-20 plans’ features will be available soon and posted to this page.      

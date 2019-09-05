@@ -4,59 +4,55 @@ permalink: /luggageguide/
 ---
 
 **Important list:**  
-1. Passport
-2. Visa card
-3. Driving license
-4. I20
-5. Toefl，GRE，GMAT  Transcripts
-6. Certificate of Health Examination
-7. International Certificate of Vaccination 
-8. School offer
-9. Undergraduate Transcript
-10. All the materials you prepared for the visa
-11. Crash
-12. Spare glasses
-13. Tissue
-14. Neck pillow  
-
+1. Passport, I20  
+2. VISA card, Cash  
+3. Driver's license  
+4. TOEFL，GRE，GMAT Transcripts  
+5. Certificate of Health Examination  
+6. Immunizaton Form  
+7. Admission letter  
+8. Undergraduate Transcript    
+9.  Other materials you prepared for the visa (i.e. Proof of Deposit )  
+10. Spare glasses    
+11. Neck pillow    
+  
 
 **What you may need in your checked luggage**  
-Syracuse is close to the Great Lakes region so its high precipitation，and this lead the temperature in Syracuse is low. It is snowy from October to April and rainy from May to September. You may need clothes looks like this:  
+Syracuse is located near the Great Lakes region with high precipitation，which leads to the lower temperature. It either snows or rains all the time. So you may need to prepare the following:    
+  
 
 
-
-Item | Number
+Item | Amount
 ---- | ------
+Down jacket | 1 
+Jacket | 1  
 Sweater |  2-3
-Jeans | 2-3
-Underwear, sox | 5
-Down jacket | 1
-Jacket | 1
-Baseball Jacket | 1
-Trench | 1
-T-shirt | 3-4
-Pajama | 1
-Formal dress | 1
-Flip flop | 1  
+T-shirt | 3-4  
+pants | 2-3  
+Trench | 1    
+Pajama | 1  
+Formal dress | 1  
+Boots | 1
+Slipers | 1    
 
 **When you arrive at home at night, you cannot go to the supermarket, you may need**
-
-
-Item | Number 
+  
+Item | Amount 
 ---- | ------
-Sheets | 1
-Cover | 1
-Quilt | 1
-Pillow | 1  
+Fitted or Flat Sheets | 1    
+Quilt | 1  
+Cover | 1 
+Pillow | 1 
+Pillow Case | 1  
 
 **Some small commodities are expensive in the US, you may need these**  
 
 
-Item | Number
+Item | Amount
 ---- | ------
-Conversion plug | 1
-Nail clipper | 1
-Flash | 1
+Conversion plug | 1  
+Nail clipper | 1  
+Flashlight | 1  
 Umbrella | 1       
            
                 
