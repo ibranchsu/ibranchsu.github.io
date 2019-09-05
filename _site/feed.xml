@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-05T11:38:29-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Empowering peer iSchooler.</subtitle><author><name>iBranch</name><email>ibranchsyracuse@gmail.com</email></author><entry><title type="html">We are Looking for New Members</title><link href="http://localhost:4000/recruit/" rel="alternate" type="text/html" title="We are Looking for New Members" /><published>2019-09-05T00:00:00-04:00</published><updated>2019-09-05T00:00:00-04:00</updated><id>http://localhost:4000/recruit</id><content type="html" xml:base="http://localhost:4000/recruit/">&lt;p&gt;&lt;img src=&quot;/images/recruit.png&quot; alt=&quot;Recruit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;iBranch 大家庭开始招新啦!&lt;br /&gt;
+我们致力于帮助大家更好的适应美国的学习生活，搭建信息交流平台。&lt;br /&gt;
+如果你也有一样的想法，请加入我们！&lt;br /&gt;
+点击&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdUtoeA4T6VMN1epciV3ntv-NUYQtMI3FYUyb0gJjvvhv2Zaw/viewform?usp=sf_link&quot;&gt;链接&lt;/a&gt;报名并发送简历至邮箱ibranchsyracuse@gmail.com&lt;/p&gt;</content><author><name>iBranch</name><email>ibranchsyracuse@gmail.com</email></author><summary type="html"></summary></entry><entry><title type="html">Restaurants You Should Definately Try Out in Syracuse</title><link href="http://localhost:4000/foodguide/" rel="alternate" type="text/html" title="Restaurants You Should Definately Try Out in Syracuse" /><published>2019-07-27T00:00:00-04:00</published><updated>2019-07-27T00:00:00-04:00</updated><id>http://localhost:4000/food-guide</id><content type="html" xml:base="http://localhost:4000/foodguide/">&lt;h1 id=&quot;yang-di-chun-bbq&quot;&gt;Yang Di Chun BBQ&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/food/YDC.png&quot; alt=&quot;Yang Di Chun&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Address: 2042 Erie Blvd E, Syracuse, NY 13224       &lt;br /&gt;
+Phone Number : (315) 991-4619&lt;/p&gt;
+
+&lt;p&gt;Overall Rate: ★★★★☆&lt;br /&gt;
+Food Rate: ★★★★☆&lt;br /&gt;
+Environment Rate: ★★★★☆&lt;br /&gt;
+Service Rate: ★★★☆☆&lt;/p&gt;
+
+&lt;h1 id=&quot;old-chengdu-café&quot;&gt;Old Chengdu Café&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/food/OCC.png&quot; alt=&quot;Old Chengdu Cafe&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Address: 1113 E Fayette St, Syracuse, NY 13210       &lt;br /&gt;
+Phone Number : (315) 428-8899&lt;/p&gt;
+
+&lt;p&gt;Overall Rate: ★★★★☆&lt;br /&gt;
+Food Rate: ★★★★☆ &lt;br /&gt;
+Environment Rate: ★★★☆☆&lt;br /&gt;
+Service Rate: ★★★★★&lt;/p&gt;
+
+&lt;h1 id=&quot;new-century&quot;&gt;New Century&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/food/NC.png&quot; alt=&quot;New Century&quot; /&gt;&lt;br /&gt;
+Address: 518 Kirkpatrick St, Syracuse, NY 13208 &lt;br /&gt;
+Phone Number : (315) 410-9999&lt;/p&gt;
+
+&lt;p&gt;Overall Rate: ★★★★☆&lt;br /&gt;
+Food Rate: ★★★★☆&lt;br /&gt;
+Environment Rate: ★★★☆☆&lt;br /&gt;
+Service Rate: ★★★★☆&lt;/p&gt;
+
+&lt;h1 id=&quot;empire-buffet&quot;&gt;Empire Buffet&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/food/EB.png&quot; alt=&quot;Empire Buffet&quot; /&gt;&lt;br /&gt;
+Address: 3179 Erie Blvd E, Syracuse, NY 13214 &lt;br /&gt;
+Phone Number : (315) 251-1888&lt;/p&gt;
+
+&lt;p&gt;Overall Rate: ★★★☆☆&lt;br /&gt;
+Food Rate: ★★★★☆&lt;br /&gt;
+Environment Rate: ★★★☆☆&lt;br /&gt;
+Service Rate: ★★★★☆&lt;/p&gt;
+
+&lt;h1 id=&quot;thai-love-ny&quot;&gt;Thai Love NY&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/food/TLNY.png&quot; alt=&quot;Thai Love NY&quot; /&gt;&lt;br /&gt;
+Address: 2822 Lemoyne Ave, Syracuse, NY 13211&lt;br /&gt;
+Phone Number : (315) 928-5659&lt;/p&gt;
+
+&lt;p&gt;Overall Rate: ★★★★☆&lt;br /&gt;
+Food Rate: ★★★★☆&lt;br /&gt;
+Environment Rate: ★★★★★&lt;br /&gt;
+Service Rate: ★★★★☆&lt;/p&gt;
+
+&lt;h1 id=&quot;red-chili&quot;&gt;Red Chili&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/food/RC.png&quot; alt=&quot;Red Chili&quot; /&gt;&lt;br /&gt;
+Address: 2740 Erie Blvd E, Syracuse, NY 13224&lt;br /&gt;
+Phone Number : (315) 446-2882&lt;/p&gt;
+
+&lt;p&gt;Overall Rate: ★★★★☆&lt;br /&gt;
+Food Rate: ★★★★☆&lt;br /&gt;
+Environment Rate: ★★★★★&lt;br /&gt;
+Service Rate: ★★★★☆&lt;/p&gt;
+
+&lt;h1 id=&quot;storming-crab&quot;&gt;Storming crab&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/food/SC.png&quot; alt=&quot;Storming crab&quot; /&gt;&lt;br /&gt;
+Address: 2841 Erie Blvd E, Syracuse, NY 13224&lt;br /&gt;
+Phone Number : (315) 445-5686&lt;/p&gt;
+
+&lt;p&gt;Overall Rate: ★★★★☆&lt;br /&gt;
+Food Rate: ★★★★★&lt;br /&gt;
+Environment Rate: ★★★★★&lt;br /&gt;
+Service Rate: ★★★★☆&lt;/p&gt;
+
+&lt;h1 id=&quot;texas-road-house&quot;&gt;Texas Road House&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/food/TRH.png&quot; alt=&quot;Texas Road House&quot; /&gt;&lt;br /&gt;
+Address: 3143 Erie Blvd E, Syracuse, NY 13214&lt;br /&gt;
+Phone Number : (315) 445-4086&lt;/p&gt;
+
+&lt;p&gt;Overall Rate: ★★★★☆&lt;br /&gt;
+Food Rate: ★★★☆☆&lt;br /&gt;
+Environment Rate: ★★★★☆&lt;br /&gt;
+Service Rate: ★★★★☆&lt;/p&gt;
+
+&lt;h1 id=&quot;oliver-garden&quot;&gt;Oliver Garden&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/food/OG.png&quot; alt=&quot;Oliver Garden&quot; /&gt;&lt;br /&gt;
+Address: 3147 Erie Blvd E, Syracuse, NY 13214&lt;br /&gt;
+Phone Number : (315) 449-1543&lt;/p&gt;
+
+&lt;p&gt;Overall Rate: ★★★☆☆&lt;br /&gt;
+Food Rate: ★★★☆☆&lt;br /&gt;
+Environment Rate: ★★★★★&lt;br /&gt;
+Service Rate: ★★★☆☆&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot; class=&quot;btn btn--primary&quot;&gt;homepage&lt;/a&gt;      &lt;a href=&quot;/newstudents/&quot; class=&quot;btn btn--primary&quot;&gt;Menu&lt;/a&gt;&lt;/p&gt;</content><author><name>iBranch</name><email>ibranchsyracuse@gmail.com</email></author><summary type="html">Yang Di Chun BBQ</summary></entry><entry><title type="html">Student Health Plan</title><link href="http://localhost:4000/healthinsurance/" rel="alternate" type="text/html" title="Student Health Plan" /><published>2019-07-18T00:00:00-04:00</published><updated>2019-07-18T00:00:00-04:00</updated><id>http://localhost:4000/health-insurance</id><content type="html" xml:base="http://localhost:4000/healthinsurance/">&lt;p&gt;&lt;strong&gt;Student Health Insurance Plan Eligibility and Coverage&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All full-time, matriculated undergraduate, graduate and law students are eligible for the Student Health Insurance Plan. Once per academic year, eligible students must enroll in or waive out of the Student Health Insurance Plan with alternate qualifying coverage through their MySlice account.&lt;/p&gt;
+
+&lt;p&gt;The Student Health Insurance Plan is currently insured and administered by Aetna Student Health. This plan is ACA-compliant, provided by a U.S.-based insurer, and includes emergency and non-emergency coverage in the Syracuse area.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plan Details, Brochure, and Benefit Highlights&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The 2019-20 Student Health Insurance Plan offers a platinum-rated plan that features comprehensive health insurance coverage. Access the Syracuse University Plan Highlight Sheet for a brief summary.&lt;/p&gt;
+
+&lt;p&gt;The full 2019-20 Plan Design and Benefits Summary will be available later this summer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How to Enroll&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Eligible full-time matriculated undergraduate, graduate and law students, including graduate assistants, teaching assistants, research assistants and fellows, can enroll in the Student Health Insurance Plan on MySlice.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;To enroll:&lt;/li&gt;
+  &lt;li&gt;Log into MySlice with your SU NetID and password&lt;/li&gt;
+  &lt;li&gt;Under the Student Services section, find the Student Health Insurance header and click ‘Health Insurance Enroll/Waive’&lt;/li&gt;
+  &lt;li&gt;Click ‘Enroll’&lt;/li&gt;
+  &lt;li&gt;Complete the enrollment form and click ‘Submit’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please allow up to 10 days for processing. Your insurance card will be available to print online on the Aetna Student Health page once processed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Waiving the Student Health Insurance Plan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Some students may already have access to qualifying health insurance coverage. To waive the Student Health Insurance Plan, students must provide proof of qualifying coverage through MySlice annually by the published deadline.&lt;/p&gt;
+
+&lt;p&gt;The deadline to waive is September 16, 2019. After September 16, only prorated refunds will be available.&lt;/p&gt;
+
+&lt;p&gt;Qualifying coverage is defined as follows:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Provided by a U.S.-based insurer*&lt;/li&gt;
+  &lt;li&gt;Covers emergency and non-emergency services in the Syracuse area&lt;/li&gt;
+  &lt;li&gt;Compliant with all aspects of the Affordable Care Act (ACA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please note, most New York State Essential Plan tiers do not meet our requirements. Please email the Student Health Insurance Office if you have questions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Insurance carriers or their subsidiaries outside the 50 U.S. states or coverage by foreign National Health Services programs are not acceptable under this criterion.  Some of these plans may advertise that they are ACA-compliant and provide a U.S. address; however, many are not filed and approved in the U.S., which is required to be accepted as alternate qualifying coverage.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are currently enrolled in an out-of-New York State or New York City Medicaid plan, please email the Student Health Insurance Office.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Qualifying Coverage Considerations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some required standards:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Carrier is licensed to do business in the U.S., has a U.S. phone number, and a U.S. claims payment office.&lt;/li&gt;
+  &lt;li&gt;Does not have waiting periods prior to providing coverage for pre-existing conditions.&lt;/li&gt;
+  &lt;li&gt;Does not have exclusions for mental health disorders, pre-existing conditions, pregnancy and pregnancy-related treatment, and drug and alcohol-related conditions.&lt;/li&gt;
+  &lt;li&gt;Coverage is duration of the academic year or until the academic program end.&lt;/li&gt;
+  &lt;li&gt;Unlimited yearly and unlimited maximum benefit.
+To Waive:&lt;/li&gt;
+  &lt;li&gt;Log into MySlice with your SU NetID and password&lt;/li&gt;
+  &lt;li&gt;Under the Student Services section, find the Student Health Insurance header and click ‘Health Insurance Enroll/Waive’&lt;/li&gt;
+  &lt;li&gt;Click ‘Waive’&lt;/li&gt;
+  &lt;li&gt;Complete the waiver form, including uploading a copy of your health insurance card&lt;/li&gt;
+  &lt;li&gt;Click ‘Submit’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Premium Rates and Coverage Dates&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The University worked closely with its health insurance broker to maintain the premium rate for 2019-20.  The annual rate for 2019-20 is anticipated to be $1,730, which includes a $45 administrative fee.  The administrative fee covers expenses incurred to ensure compliance with the health insurance requirement, to manage the enrollment process, and to provide dedicated, on-campus support to students enrolled in the Student Health Insurance Plan.&lt;/p&gt;
+
+&lt;p&gt;The premium rate for fall-only coverage is $749.&lt;/p&gt;
+
+&lt;p&gt;The premium rate for spring-only coverage is $1,026.&lt;/p&gt;
+
+&lt;p&gt;The coverage dates for the 2019-2020 year are as follows:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;2019-20 Academic Year: August 1, 2019 – July 31, 2020&lt;/li&gt;
+  &lt;li&gt;Fall 2019 Only: August 1, 2019 – December 31, 2019&lt;/li&gt;
+  &lt;li&gt;Spring 2020 Only: January 1, 2020 – July 31, 2020&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Managing Costs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Student Health Insurance Plan Premium&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Student Health Insurance Plan premium will be applied to students’ Bursar’s bill. Those seeking to discuss their payment options should contact the Bursar’s Office at 315.443.2444 or bursar@syr.edu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Claims Costs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The 2019-2020 Student Health Insurance Plan is a co-pay/co-insurance model, meaning that students are paying a standard co-pay for visits and possibly a portion of their bill based on the services rendered. Out-of-pocket expenses can be minimized by seeking medically-necessary care at the most appropriate medical facility. For example, students can visit Health Services, located on campus, for a number of health care needs.  There are several urgent care facilities located near campus that are open between the hours of 8 a.m. to 11 p.m. for non-emergency care.  Check whether they participate in your insurer’s network before you visit so you know what coverage to expect.&lt;/p&gt;
+
+&lt;p&gt;Understanding your plan and benefits can help you minimize your costs – consider exclusions, referral requirements, and appropriate emergency room usage when considering your options, and use in-network providers whenever possible to help reduce potential costs.&lt;/p&gt;
+
+&lt;p&gt;Students with concerns regarding their bills or claims should contact the Student Health Insurance Office at 315.443.9019 to set up an appointment. Students should bring their insurance card and any documentation and bills with them to the appointment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot; class=&quot;btn btn--primary&quot;&gt;homepage&lt;/a&gt;      &lt;a href=&quot;/newstudents/&quot; class=&quot;btn btn--primary&quot;&gt;Menu&lt;/a&gt;&lt;/p&gt;</content><author><name>iBranch</name><email>ibranchsyracuse@gmail.com</email></author><summary type="html">Student Health Insurance Plan Eligibility and Coverage All full-time, matriculated undergraduate, graduate and law students are eligible for the Student Health Insurance Plan. Once per academic year, eligible students must enroll in or waive out of the Student Health Insurance Plan with alternate qualifying coverage through their MySlice account. The Student Health Insurance Plan is currently insured and administered by Aetna Student Health. This plan is ACA-compliant, provided by a U.S.-based insurer, and includes emergency and non-emergency coverage in the Syracuse area. Plan Details, Brochure, and Benefit Highlights The 2019-20 Student Health Insurance Plan offers a platinum-rated plan that features comprehensive health insurance coverage. Access the Syracuse University Plan Highlight Sheet for a brief summary. The full 2019-20 Plan Design and Benefits Summary will be available later this summer. How to Enroll Eligible full-time matriculated undergraduate, graduate and law students, including graduate assistants, teaching assistants, research assistants and fellows, can enroll in the Student Health Insurance Plan on MySlice. To enroll: Log into MySlice with your SU NetID and password Under the Student Services section, find the Student Health Insurance header and click ‘Health Insurance Enroll/Waive’ Click ‘Enroll’ Complete the enrollment form and click ‘Submit’ Please allow up to 10 days for processing. Your insurance card will be available to print online on the Aetna Student Health page once processed. Waiving the Student Health Insurance Plan Some students may already have access to qualifying health insurance coverage. To waive the Student Health Insurance Plan, students must provide proof of qualifying coverage through MySlice annually by the published deadline. The deadline to waive is September 16, 2019. After September 16, only prorated refunds will be available. Qualifying coverage is defined as follows: Provided by a U.S.-based insurer* Covers emergency and non-emergency services in the Syracuse area Compliant with all aspects of the Affordable Care Act (ACA) Please note, most New York State Essential Plan tiers do not meet our requirements. Please email the Student Health Insurance Office if you have questions. Insurance carriers or their subsidiaries outside the 50 U.S. states or coverage by foreign National Health Services programs are not acceptable under this criterion. Some of these plans may advertise that they are ACA-compliant and provide a U.S. address; however, many are not filed and approved in the U.S., which is required to be accepted as alternate qualifying coverage. If you are currently enrolled in an out-of-New York State or New York City Medicaid plan, please email the Student Health Insurance Office. Qualifying Coverage Considerations Here are some required standards: Carrier is licensed to do business in the U.S., has a U.S. phone number, and a U.S. claims payment office. Does not have waiting periods prior to providing coverage for pre-existing conditions. Does not have exclusions for mental health disorders, pre-existing conditions, pregnancy and pregnancy-related treatment, and drug and alcohol-related conditions. Coverage is duration of the academic year or until the academic program end. Unlimited yearly and unlimited maximum benefit. To Waive: Log into MySlice with your SU NetID and password Under the Student Services section, find the Student Health Insurance header and click ‘Health Insurance Enroll/Waive’ Click ‘Waive’ Complete the waiver form, including uploading a copy of your health insurance card Click ‘Submit’</summary></entry><entry><title type="html">Dental and Vision Plans</title><link href="http://localhost:4000/dentalvision/" rel="alternate" type="text/html" title="Dental and Vision Plans" /><published>2019-07-18T00:00:00-04:00</published><updated>2019-07-18T00:00:00-04:00</updated><id>http://localhost:4000/dental-vision</id><content type="html" xml:base="http://localhost:4000/dentalvision/">&lt;p&gt;Full-time, matriculated graduate and law students are eligible for the graduate student dental and vision insurance plans.&lt;/p&gt;
+
+&lt;p&gt;The 2019-20 plans’ features will be available soon and posted to this page.&lt;/p&gt;
+
+&lt;p&gt;Pricing information is as follows:    &lt;br /&gt;
+2019-20 Dental Preventative Low Plan (Monthly Rates)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grad/law student only – $17.35&lt;/li&gt;
+  &lt;li&gt;Grad/law student and spouse/partner – $29.44&lt;/li&gt;
+  &lt;li&gt;Grad/law student and child(ren) – $32.10&lt;/li&gt;
+  &lt;li&gt;Grad/law student, spouse/partner and child(ren) -$47.15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2019-20 Dental Comprehensive High Plan (Monthly Rates)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grad/law student only – $37.50&lt;/li&gt;
+  &lt;li&gt;Grad/law student and spouse/partner – $74.94&lt;/li&gt;
+  &lt;li&gt;Grad/law student and child(ren) – $74.13&lt;/li&gt;
+  &lt;li&gt;Grad/law student, spouse/partner and child(ren) -$110.61&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2019-20 Vision (Monthly Rates)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grad/law student only – $5.72&lt;/li&gt;
+  &lt;li&gt;Grad/law student and spouse/partner – $11.44&lt;/li&gt;
+  &lt;li&gt;Grad/law student and child(ren) – $12.40&lt;/li&gt;
+  &lt;li&gt;Grad/law student, spouse/partner and child(ren) -$19.84&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To enroll in the graduate student dental and/or vision plans:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Log into MySlice with your SU Net ID and password&lt;/li&gt;
+  &lt;li&gt;Under the Student Services section, click the ‘Vision/Dental Enroll-Optional’ link listed under Student Health Insurance&lt;/li&gt;
+  &lt;li&gt;Review the enrollment information page&lt;/li&gt;
+  &lt;li&gt;If you would like to enroll in either or both plans, click the ‘Enroll’ button&lt;/li&gt;
+  &lt;li&gt;Complete the enrollment form and click the ‘Submit’ button&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot; class=&quot;btn btn--primary&quot;&gt;homepage&lt;/a&gt;      &lt;a href=&quot;/newstudents/&quot; class=&quot;btn btn--primary&quot;&gt;Menu&lt;/a&gt;&lt;/p&gt;</content><author><name>iBranch</name><email>ibranchsyracuse@gmail.com</email></author><summary type="html">Full-time, matriculated graduate and law students are eligible for the graduate student dental and vision insurance plans. The 2019-20 plans’ features will be available soon and posted to this page. Pricing information is as follows: 2019-20 Dental Preventative Low Plan (Monthly Rates) Grad/law student only – $17.35 Grad/law student and spouse/partner – $29.44 Grad/law student and child(ren) – $32.10 Grad/law student, spouse/partner and child(ren) -$47.15 2019-20 Dental Comprehensive High Plan (Monthly Rates) Grad/law student only – $37.50 Grad/law student and spouse/partner – $74.94 Grad/law student and child(ren) – $74.13 Grad/law student, spouse/partner and child(ren) -$110.61</summary></entry><entry><title type="html">Housing Guide: Within Walking Distance to Campus</title><link href="http://localhost:4000/housingguide2/" rel="alternate" type="text/html" title="Housing Guide: Within Walking Distance to Campus" /><published>2019-07-16T00:00:00-04:00</published><updated>2019-07-16T00:00:00-04:00</updated><id>http://localhost:4000/housing-guide-2</id><content type="html" xml:base="http://localhost:4000/housingguide2/">&lt;p&gt;The content was originally created by iGrad and now edited by iBranch.&lt;/p&gt;
+
+&lt;p&gt;Follwing is a list of housing options within walking distance to campus. Information was gathered from apartment website and current students’ feedback. Special thanks to all current students who have kindly provided valuable information.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;502 University Apartments     &lt;br /&gt;
+Address: 502 University Avenue    &lt;br /&gt;
+Distance to school: 10 minsutes walk         &lt;br /&gt;
+Average rental fee: $575/month         &lt;br /&gt;
+Contact information: (315)-437-7577, 1-888-729-6907         &lt;br /&gt;
+Website: https://502universityapartments.com         &lt;br /&gt;
+Current sdtudents’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Close to campus, not expensive&lt;/li&gt;
+      &lt;li&gt;Cons: Old building, need to buy parking permit (can park free on the street depending on the time), floor and carpet not of high quality, sound insulation is not good, inefficient management team&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Campus Hill Apartments         &lt;br /&gt;
+Address: 1201 Harrison Street         &lt;br /&gt;
+Distance to school: 10 minsutes walk         &lt;br /&gt;
+Average rental fee: $525-1000/month         &lt;br /&gt;
+Contact information: (877) 309-8098         &lt;br /&gt;
+Website: http://syracuse.campushill.com         &lt;br /&gt;
+Current sdtudents’ comments:          &lt;br /&gt;
+Unfortunately, we do not have feedback from current students at this point.&lt;/li&gt;
+  &lt;li&gt;Campus West         &lt;br /&gt;
+Address: 150 Henry St.         &lt;br /&gt;
+Distance to school: 10 minsutes walk         &lt;br /&gt;
+Average rental fee: Starting at $999 per person per installment         &lt;br /&gt;
+Contact information: 315-231-5100         &lt;br /&gt;
+Website: http://www.campuswestsyracuse.com/         &lt;br /&gt;
+Current sdtudents’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Close to campus, fully furnished, all utilities and internet covered. Starbucks and convenient store just downstairs. Office can help with receiving packages. Gym, study room and free printing provided.&lt;/li&gt;
+      &lt;li&gt;Cons: No parking space available, need to buy school parking permit and park on campus. Expensive.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;University Area Apartments         &lt;br /&gt;
+Address: 614 South Crous Ave, Suite 200         &lt;br /&gt;
+Distance to school: 10 minsutes walk         &lt;br /&gt;
+Average rental fee: $500-1350/month         &lt;br /&gt;
+Contact information: 315.479.5005         &lt;br /&gt;
+Website: https://www.universityarea.com         &lt;br /&gt;
+Current sdtudents’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Near to school with reasonable price&lt;/li&gt;
+      &lt;li&gt;Cons: Not good for cooking&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Skyler Commons     &lt;br /&gt;
+Address: 908 Harrison Street     &lt;br /&gt;
+Distance to school: 10 minsutes walk     &lt;br /&gt;
+Average rental fee: $1250-1300/month     &lt;br /&gt;
+Contact information: info@housingsyr.com     &lt;br /&gt;
+Website: http://skylercommons.com     &lt;br /&gt;
+Current sdtudents’ comments:      &lt;br /&gt;
+Unfortunately, we do not have feedback from current students at this point, but all rooms come fullly furnished&lt;/li&gt;
+  &lt;li&gt;Madison Towers     &lt;br /&gt;
+Address: 60 Presidential Plz     &lt;br /&gt;
+Distance to school: 7 minutes drive, 20 minutes walk     &lt;br /&gt;
+Average rental fee: $600-1200/month     &lt;br /&gt;
+Contact information: 315-359-5938     &lt;br /&gt;
+Website: https://www.livemadisontowers.com/     &lt;br /&gt;
+Current sdtudents’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Big rooms, inside parking lots rental, close to downtown, safe guards at nights.&lt;/li&gt;
+      &lt;li&gt;Cons: Old building, hot water sometimes shortage at the top levels, not so warm inside sometimes in winter.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Jefferson Tower Apartments     &lt;br /&gt;
+Address: 50 Presidential Plz     &lt;br /&gt;
+Distance to school: 7 minutes drive, 20 minutes walk     &lt;br /&gt;
+Average rental fee: $750-1045/month     &lt;br /&gt;
+Contact information: 315.422.2644, csantoro@suttoncos.com.     &lt;br /&gt;
+Website: https://www.suttoncos.com/property/jefferson-tower-apartments/     &lt;br /&gt;
+Current sdtudents’ comments:      &lt;br /&gt;
+Unfortunately, we do not have feedback from current students at this point.&lt;/li&gt;
+  &lt;li&gt;Coppor Beech Commons     &lt;br /&gt;
+Address: 300 University Ave     &lt;br /&gt;
+Distance to school: 8 mintues Apt shuttle, 15 minutes walk           &lt;br /&gt;
+Average rental fee: $749-1000/month     &lt;br /&gt;
+Contact information: 315-565-7555     &lt;br /&gt;
+Website: http://cbcsyracuse.com     &lt;br /&gt;
+Current sdtudents’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Nice management service, close to school, sound facilities, shuttle bus to supermarkets and school, safe area, fully furnished&lt;/li&gt;
+      &lt;li&gt;Cons: Shuttle bus ends at 8:30 pm, old building&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Theory Syracuse     &lt;br /&gt;
+Address: 919 E. Genesee St.     &lt;br /&gt;
+Distance to school: 5 mintues Apt shuttle, 15 minutes walk            &lt;br /&gt;
+Average rental fee: Starting from $1499/month for studio and $1299/month for 2b2b     &lt;br /&gt;
+Contact information: 315-552-9386, 315-552-9397     &lt;br /&gt;
+Website: https://www.theorysyracuse.com/theory-syracuse-syracuse-ny/     &lt;br /&gt;
+Current sdtudents’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: close to campus, furnished&lt;/li&gt;
+      &lt;li&gt;Cons: leaking, not very clean in the comman area&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The 505 on Walnut     &lt;br /&gt;
+Address: 505 Walnut Ave.     &lt;br /&gt;
+Distance to school: 5 mintues Apt shuttle, 15 minutes walk            &lt;br /&gt;
+Average rental fee: Starting from $1300/month     &lt;br /&gt;
+Contact information: bjohnson@themichaelsorg.com, 315-475-5050     &lt;br /&gt;
+Website: https://www.the505onwalnut.com/the-505-on-walnut-syracuse-ny/     &lt;br /&gt;
+Current sdtudents’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: newly built, furnished, close to campus, apartment shuttle to school and supermarkets&lt;/li&gt;
+      &lt;li&gt;Cons: Small gym, hard to find a parking place, inefficient management&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;U Point     &lt;br /&gt;
+Address: 404 University Ave.     &lt;br /&gt;
+Distance to school: 10 minutes walk     &lt;br /&gt;
+Average rental fee: Starting from $759/month     &lt;br /&gt;
+Contact information: 315.338.4060, UPoint@americancampus.com     &lt;br /&gt;
+Website: https://www.americancampus.com/student-apartments/ny/syracuse/u-point-syracuse     &lt;br /&gt;
+Current sdtudents’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Close to campus&lt;/li&gt;
+      &lt;li&gt;Cons: No shuttle, windows cannot be opened, can be if AC breakdowns, unprofessional management service, unreasonable room structure&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Park Point     &lt;br /&gt;
+Address: 417 Comstock Ave.     &lt;br /&gt;
+Distance to school: 5 minutes walk     &lt;br /&gt;
+Average rental fee: Starting from $1279/month     &lt;br /&gt;
+Contact information: 315.414.2400, parkpointsyracuse@americancampus.com     &lt;br /&gt;
+Website: https://www.americancampus.com/student-apartments/ny/syracuse/park-point-syracuse     &lt;br /&gt;
+Current sdtudents’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: walking distance, convenient fully furnished&lt;/li&gt;
+      &lt;li&gt;Cons: expensive&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot; class=&quot;btn btn--primary&quot;&gt;homepage&lt;/a&gt;      &lt;a href=&quot;/newstudents/&quot; class=&quot;btn btn--primary&quot;&gt;Menu&lt;/a&gt;&lt;/p&gt;</content><author><name>iBranch</name><email>ibranchsyracuse@gmail.com</email></author><summary type="html">The content was originally created by iGrad and now edited by iBranch. Follwing is a list of housing options within walking distance to campus. Information was gathered from apartment website and current students’ feedback. Special thanks to all current students who have kindly provided valuable information. 502 University Apartments Address: 502 University Avenue Distance to school: 10 minsutes walk Average rental fee: $575/month Contact information: (315)-437-7577, 1-888-729-6907 Website: https://502universityapartments.com Current sdtudents’ comments: Pros: Close to campus, not expensive Cons: Old building, need to buy parking permit (can park free on the street depending on the time), floor and carpet not of high quality, sound insulation is not good, inefficient management team Campus Hill Apartments Address: 1201 Harrison Street Distance to school: 10 minsutes walk Average rental fee: $525-1000/month Contact information: (877) 309-8098 Website: http://syracuse.campushill.com Current sdtudents’ comments: Unfortunately, we do not have feedback from current students at this point. Campus West Address: 150 Henry St. Distance to school: 10 minsutes walk Average rental fee: Starting at $999 per person per installment Contact information: 315-231-5100 Website: http://www.campuswestsyracuse.com/ Current sdtudents’ comments: Pros: Close to campus, fully furnished, all utilities and internet covered. Starbucks and convenient store just downstairs. Office can help with receiving packages. Gym, study room and free printing provided. Cons: No parking space available, need to buy school parking permit and park on campus. Expensive. University Area Apartments Address: 614 South Crous Ave, Suite 200 Distance to school: 10 minsutes walk Average rental fee: $500-1350/month Contact information: 315.479.5005 Website: https://www.universityarea.com Current sdtudents’ comments: Pros: Near to school with reasonable price Cons: Not good for cooking Skyler Commons Address: 908 Harrison Street Distance to school: 10 minsutes walk Average rental fee: $1250-1300/month Contact information: info@housingsyr.com Website: http://skylercommons.com Current sdtudents’ comments: Unfortunately, we do not have feedback from current students at this point, but all rooms come fullly furnished Madison Towers Address: 60 Presidential Plz Distance to school: 7 minutes drive, 20 minutes walk Average rental fee: $600-1200/month Contact information: 315-359-5938 Website: https://www.livemadisontowers.com/ Current sdtudents’ comments: Pros: Big rooms, inside parking lots rental, close to downtown, safe guards at nights. Cons: Old building, hot water sometimes shortage at the top levels, not so warm inside sometimes in winter. Jefferson Tower Apartments Address: 50 Presidential Plz Distance to school: 7 minutes drive, 20 minutes walk Average rental fee: $750-1045/month Contact information: 315.422.2644, csantoro@suttoncos.com. Website: https://www.suttoncos.com/property/jefferson-tower-apartments/ Current sdtudents’ comments: Unfortunately, we do not have feedback from current students at this point. Coppor Beech Commons Address: 300 University Ave Distance to school: 8 mintues Apt shuttle, 15 minutes walk Average rental fee: $749-1000/month Contact information: 315-565-7555 Website: http://cbcsyracuse.com Current sdtudents’ comments: Pros: Nice management service, close to school, sound facilities, shuttle bus to supermarkets and school, safe area, fully furnished Cons: Shuttle bus ends at 8:30 pm, old building Theory Syracuse Address: 919 E. Genesee St. Distance to school: 5 mintues Apt shuttle, 15 minutes walk Average rental fee: Starting from $1499/month for studio and $1299/month for 2b2b Contact information: 315-552-9386, 315-552-9397 Website: https://www.theorysyracuse.com/theory-syracuse-syracuse-ny/ Current sdtudents’ comments: Pros: close to campus, furnished Cons: leaking, not very clean in the comman area The 505 on Walnut Address: 505 Walnut Ave. Distance to school: 5 mintues Apt shuttle, 15 minutes walk Average rental fee: Starting from $1300/month Contact information: bjohnson@themichaelsorg.com, 315-475-5050 Website: https://www.the505onwalnut.com/the-505-on-walnut-syracuse-ny/ Current sdtudents’ comments: Pros: newly built, furnished, close to campus, apartment shuttle to school and supermarkets Cons: Small gym, hard to find a parking place, inefficient management U Point Address: 404 University Ave. Distance to school: 10 minutes walk Average rental fee: Starting from $759/month Contact information: 315.338.4060, UPoint@americancampus.com Website: https://www.americancampus.com/student-apartments/ny/syracuse/u-point-syracuse Current sdtudents’ comments: Pros: Close to campus Cons: No shuttle, windows cannot be opened, can be if AC breakdowns, unprofessional management service, unreasonable room structure Park Point Address: 417 Comstock Ave. Distance to school: 5 minutes walk Average rental fee: Starting from $1279/month Contact information: 315.414.2400, parkpointsyracuse@americancampus.com Website: https://www.americancampus.com/student-apartments/ny/syracuse/park-point-syracuse Current sdtudents’ comments: Pros: walking distance, convenient fully furnished Cons: expensive</summary></entry><entry><title type="html">Housing Guide: Longer Distance to Campus</title><link href="http://localhost:4000/housingguide/" rel="alternate" type="text/html" title="Housing Guide: Longer Distance to Campus" /><published>2019-07-16T00:00:00-04:00</published><updated>2019-07-16T00:00:00-04:00</updated><id>http://localhost:4000/housing-guide</id><content type="html" xml:base="http://localhost:4000/housingguide/">&lt;p&gt;The content was originally created by iGrad and now edited by iBranch.&lt;/p&gt;
+
+&lt;p&gt;Following is a list of housing options that have longer distance to campus (not within walking distance). Information was gathered from apartment website and current students’ feedback. Special thanks to all current students who have kindly provided valuable information.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Clarendon Heights Apartments    &lt;br /&gt;
+Address: 508 Ivy Ridge Rd.    &lt;br /&gt;
+Distance to school: 10 minutes school shuttle (Birnie #31)    &lt;br /&gt;
+Average rental fee: $600-1000/month        &lt;br /&gt;
+Contact information: ClarendonPM@dlhproperties.net, 315-478-4600      &lt;br /&gt;
+Website: https://www.dlhproperties.net/property/clarendon-heights/     &lt;br /&gt;
+Current students’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Nice apartment management people&lt;/li&gt;
+      &lt;li&gt;Cons: Not furnished, not good public facilities, poor sound insulation, heat not including in rental&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Newbury Apartments       &lt;br /&gt;
+Address: 116 Newbury Hollow Lane.       &lt;br /&gt;
+Distance to school: 15 minutes school shuttle (Birnie #31)        &lt;br /&gt;
+Average rental fee: $600/month      &lt;br /&gt;
+Contact information: 315-413-4949      &lt;br /&gt;
+Website: https://www.dlhproperties.net/property/newbury-apartment-homes/      &lt;br /&gt;
+Current students’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: only two apartments on each floor, quiet, beautiful environment, all utility included&lt;/li&gt;
+      &lt;li&gt;Cons: Not furnished, needs go outside and even drive for garbage disposal, no elevator, need to walk out for shuttle&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Nob Hill Apartments          &lt;br /&gt;
+Address: 101 Lafayette Rd.     &lt;br /&gt;
+Distance to school: 20 minutes school shuttle (Birnie #31)       &lt;br /&gt;
+Average rental fee: $300-900/month     &lt;br /&gt;
+Contact information: 315-469-3211      &lt;br /&gt;
+Website: https://www.nobhillsyracuse.com/         &lt;br /&gt;
+Current students’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Can wait indoor for school shuttle. First/final stop on the route. Cheap price. Big Chinese community&lt;/li&gt;
+      &lt;li&gt;Cons: Not furnished, far from school and stores. Inconvenient without a car. Unfriendly and unprofessional management team&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hidden Valley    &lt;br /&gt;
+Address: 123 Remington Ave.     &lt;br /&gt;
+Distance to school: 12 minutes school shuttle (Birnie #31)    &lt;br /&gt;
+Average rental fee: $440-790/month      &lt;br /&gt;
+Contact information: 315-475-7061, rsutton6@twcny.rr.com     &lt;br /&gt;
+Website: http://www.suttoncos.com/property/hidden-valley-apartments/    &lt;br /&gt;
+Current students’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Big bedroom, balcony included, not far from school, quiet, cheap&lt;/li&gt;
+      &lt;li&gt;Cons: Walk needed from shuttle bus station to apartment&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Aspen Heights      &lt;br /&gt;
+Address: 4101 E. Brighton Ave.    &lt;br /&gt;
+Distance to school: 10 minutes Apt shuttle    &lt;br /&gt;
+Average rental fee: $704-1429/month    &lt;br /&gt;
+Contact information: 315-215-2306, syracuse@myaspenheights.com   &lt;br /&gt;
+Website: https://myaspenheights.com/our-locations/syracuse/      &lt;br /&gt;
+Current students’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Newly built, free internet, free utility, free parking, private laundry and dryer, good value but less expensive compared to other luxury apartment close to campus, has apartment shuttle that runs very frequently and takes only 10 minutes to campus.&lt;/li&gt;
+      &lt;li&gt;Cons: Not very frequent in cleaning the common area.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Merchants Commons    &lt;br /&gt;
+Address: 220 South Warren Street.    &lt;br /&gt;
+Distance to school: 10 minutes’ drive    &lt;br /&gt;
+Average rental fee: 1b1b: $1400-1600/month   &lt;br /&gt;
+Contact information: 315-426-2624, info@merchantscommons.com   &lt;br /&gt;
+Website: http://www.merchants-commons.com/    &lt;br /&gt;
+Current students’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Close to downtown, nice building, clothing washing and dryers in each room, French window and open bar in the room&lt;/li&gt;
+      &lt;li&gt;Cons: Expensive, inside parking lot only available for 2 bedrooms, not safe midnight in downtown&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Icon Tower    &lt;br /&gt;
+Address: 344 S. Warren Street    &lt;br /&gt;
+Distance to school: 10 minutes’ drive   &lt;br /&gt;
+Average rental fee: $1350-2500/month   &lt;br /&gt;
+Contact information: 315.299.6292, info@theiconcompanies.com   &lt;br /&gt;
+Website: http://icon-tower.com/   &lt;br /&gt;
+Current students’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Nice apartment, near to downtown&lt;/li&gt;
+      &lt;li&gt;Cons: Inconvenient for parking&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;University Village on Colvin   &lt;br /&gt;
+Address: 315 Small Road   &lt;br /&gt;
+Distance to school: 10 minutes’ drive   &lt;br /&gt;
+Average rental fee: Starting at $940 per person per installment   &lt;br /&gt;
+Contact information: 315.424.1047   &lt;br /&gt;
+Website: http://www.uvcolvin.com/   &lt;br /&gt;
+Current students’ comments:
+    &lt;ul&gt;
+      &lt;li&gt;Pros: Fully furniture, newly built, all utilities and internet provided, very convenient transportation, gym and study room provided, free printing, free coffee. Safe with DPS patrolling.&lt;/li&gt;
+      &lt;li&gt;Cons: Many undergraduate students living there, noisy in the night and in weekends, expensive.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Utility Fees&lt;/strong&gt;        &lt;br /&gt;
+According to the different housing with different supply, students need to be more careful about the water, electric and heating fees which would be not included in the rental fees. Students also need to figure the internet fee because majority housings did not offer free Wi-Fi.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot; class=&quot;btn btn--primary&quot;&gt;homepage&lt;/a&gt;      &lt;a href=&quot;/newstudents/&quot; class=&quot;btn btn--primary&quot;&gt;Menu&lt;/a&gt;&lt;/p&gt;</content><author><name>iBranch</name><email>ibranchsyracuse@gmail.com</email></author><summary type="html">The content was originally created by iGrad and now edited by iBranch. Following is a list of housing options that have longer distance to campus (not within walking distance). Information was gathered from apartment website and current students’ feedback. Special thanks to all current students who have kindly provided valuable information. Clarendon Heights Apartments Address: 508 Ivy Ridge Rd. Distance to school: 10 minutes school shuttle (Birnie #31) Average rental fee: $600-1000/month Contact information: ClarendonPM@dlhproperties.net, 315-478-4600 Website: https://www.dlhproperties.net/property/clarendon-heights/ Current students’ comments: Pros: Nice apartment management people Cons: Not furnished, not good public facilities, poor sound insulation, heat not including in rental Newbury Apartments Address: 116 Newbury Hollow Lane. Distance to school: 15 minutes school shuttle (Birnie #31) Average rental fee: $600/month Contact information: 315-413-4949 Website: https://www.dlhproperties.net/property/newbury-apartment-homes/ Current students’ comments: Pros: only two apartments on each floor, quiet, beautiful environment, all utility included Cons: Not furnished, needs go outside and even drive for garbage disposal, no elevator, need to walk out for shuttle Nob Hill Apartments Address: 101 Lafayette Rd. Distance to school: 20 minutes school shuttle (Birnie #31) Average rental fee: $300-900/month Contact information: 315-469-3211 Website: https://www.nobhillsyracuse.com/ Current students’ comments: Pros: Can wait indoor for school shuttle. First/final stop on the route. Cheap price. Big Chinese community Cons: Not furnished, far from school and stores. Inconvenient without a car. Unfriendly and unprofessional management team Hidden Valley Address: 123 Remington Ave. Distance to school: 12 minutes school shuttle (Birnie #31) Average rental fee: $440-790/month Contact information: 315-475-7061, rsutton6@twcny.rr.com Website: http://www.suttoncos.com/property/hidden-valley-apartments/ Current students’ comments: Pros: Big bedroom, balcony included, not far from school, quiet, cheap Cons: Walk needed from shuttle bus station to apartment Aspen Heights Address: 4101 E. Brighton Ave. Distance to school: 10 minutes Apt shuttle Average rental fee: $704-1429/month Contact information: 315-215-2306, syracuse@myaspenheights.com Website: https://myaspenheights.com/our-locations/syracuse/ Current students’ comments: Pros: Newly built, free internet, free utility, free parking, private laundry and dryer, good value but less expensive compared to other luxury apartment close to campus, has apartment shuttle that runs very frequently and takes only 10 minutes to campus. Cons: Not very frequent in cleaning the common area. Merchants Commons Address: 220 South Warren Street. Distance to school: 10 minutes’ drive Average rental fee: 1b1b: $1400-1600/month Contact information: 315-426-2624, info@merchantscommons.com Website: http://www.merchants-commons.com/ Current students’ comments: Pros: Close to downtown, nice building, clothing washing and dryers in each room, French window and open bar in the room Cons: Expensive, inside parking lot only available for 2 bedrooms, not safe midnight in downtown Icon Tower Address: 344 S. Warren Street Distance to school: 10 minutes’ drive Average rental fee: $1350-2500/month Contact information: 315.299.6292, info@theiconcompanies.com Website: http://icon-tower.com/ Current students’ comments: Pros: Nice apartment, near to downtown Cons: Inconvenient for parking University Village on Colvin Address: 315 Small Road Distance to school: 10 minutes’ drive Average rental fee: Starting at $940 per person per installment Contact information: 315.424.1047 Website: http://www.uvcolvin.com/ Current students’ comments: Pros: Fully furniture, newly built, all utilities and internet provided, very convenient transportation, gym and study room provided, free printing, free coffee. Safe with DPS patrolling. Cons: Many undergraduate students living there, noisy in the night and in weekends, expensive.</summary></entry><entry><title type="html">Mobile Plan Guide</title><link href="http://localhost:4000/mobileguide/" rel="alternate" type="text/html" title="Mobile Plan Guide" /><published>2019-07-14T00:00:00-04:00</published><updated>2019-07-14T00:00:00-04:00</updated><id>http://localhost:4000/mobile-plan-guide</id><content type="html" xml:base="http://localhost:4000/mobileguide/">&lt;p&gt;There are three mainstream communication operators in the US: Verizon、AT&amp;amp;T、T-Mobile, Sprint.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Verizon&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Verizon has the strongest signal, but it is also expensive. Data traffic packages are divided into S, M, L, XL, XXL packages, L-level packages and above can have a Bonus per Line. Compared with AT&amp;amp;T, higher price and less traffic. &lt;br /&gt;
+&lt;a href=&quot;https://www.verizonwireless.com/plans/#single&quot;&gt;Verizon&lt;/a&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/mobile-0.jpg&quot; alt=&quot;Verrizen pic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AT&amp;amp;T&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;AT&amp;amp;T is the most popular in international student.  It is more economic and affordable for students.  Also, Cell phone signal and network are good.  Below 3 mobile phones (excluding 3), the access fee for each mobile phone is $25; For 3 mobile phones and more than 3 mobile phones, the access fee for each mobile phone is $15. Family Plan is most popular, but at least need 5 people to join.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prepaid Plan &lt;br /&gt;
+&lt;img src=&quot;/images/mobile-1.jpg&quot; alt=&quot;Prepaid pic&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Family Plan &lt;br /&gt;
+&lt;img src=&quot;/images/mobile-2.jpg&quot; alt=&quot;Family pic&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;T-Mobile&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The cost is cheaper than both of the above, but the network and signal coverage are poor. It is still enough to satisfy your daily life. &lt;br /&gt;
+&lt;img src=&quot;/images/mobile-3.jpg&quot; alt=&quot;TMoblie pic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot; class=&quot;btn btn--primary&quot;&gt;homepage&lt;/a&gt;      &lt;a href=&quot;/newstudents/&quot; class=&quot;btn btn--primary&quot;&gt;Menu&lt;/a&gt;&lt;/p&gt;</content><author><name>iBranch</name><email>ibranchsyracuse@gmail.com</email></author><summary type="html">There are three mainstream communication operators in the US: Verizon、AT&amp;amp;T、T-Mobile, Sprint.</summary></entry><entry><title type="html">Flight Guide</title><link href="http://localhost:4000/flightguide/" rel="alternate" type="text/html" title="Flight Guide" /><published>2019-07-14T00:00:00-04:00</published><updated>2019-07-14T00:00:00-04:00</updated><id>http://localhost:4000/flight-guide</id><content type="html" xml:base="http://localhost:4000/flightguide/">&lt;h2 id=&quot;booking-guide&quot;&gt;Booking guide&lt;/h2&gt;
+&lt;p&gt;Freshmen can check the ticket on the relevant website in advance when purchasing tickets.  Generally speaking, tickets should be booked 3-6 weeks in advance.  &lt;br /&gt;
+Starting dates for spring and fall semesters are different. The recommended time is to arrive in Syracuse should be one week before class. Most schools will have 3-7 days of fresh Orientation activities before the official start of the school, so it is best to know the exact time before starting the ticket purchase. At present, you can purchase international air tickets in the following ways:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Purchasing points through third-party tickets: It is a window similar to train tickets and ticket sales points. In this way, the staff will charge extra fees, and many sales personnel in order to win a higher commission, students and parents are not really advised to buy a value-for-money ticket.&lt;/li&gt;
+  &lt;li&gt;Purchase through the official website of the company or official phone.&lt;/li&gt;
+  &lt;li&gt;Purchase through domestic &lt;a href=&quot;Ctrip.com&quot;&gt;Ctrip&lt;/a&gt;, &lt;a href=&quot;Qunar.com&quot;&gt;Qunar&lt;/a&gt;: This kind of website is a third-party service platform. The comprehensive comparison is quite convenient, and you can shop around. But the bad thing is that although the price is cheaper than the sales window, but it is not cheap enough. Below are a few commonly used bookings for booking tickets.   &lt;br /&gt;
+&lt;a href=&quot;http://www.panynj.gov/airtrain/&quot;&gt;JFK Air train&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;http://www.amtrak.com/&quot;&gt;train&lt;/a&gt;   &lt;br /&gt;
+&lt;a href=&quot;http://www.greyhound.com/&quot;&gt;greyhound&lt;/a&gt;    &lt;br /&gt;
+&lt;a href=&quot;http://www.orbitz.com/&quot;&gt;flight&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;boarding&quot;&gt;Boarding&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;The first step&lt;/strong&gt;: &lt;br /&gt;
+ Consign the baggage, get a boarding pass. When you check in (for boarding pass and checked baggage), you will need to show your passport (w/visa), ticket (if it is a paper ticket), or you may be required to show the I-20. The airline staff will attach or hang a barcoded bar code to each of your checked baggage boxes and give you a baggage barcode stub. Take a look at the information printed on it (eg: where your baggage will end up.) If you want to transfer your flight, please carefully understand where your luggage needs to be picked up and where you need to check-in again. These staff will explain it to you in detail. If you don’t understand, you must ask for it in time. Please also check the boarding pass (Caring Pass), such as which gate to board and your seat number, when to start boarding, and the end of the boarding Deadline, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The second step&lt;/strong&gt;:  &lt;br /&gt;
+Say goodbye to friends and relatives. Say goodbye to your relatives and friends, and then you will enter the joint inspection area (the joint inspection area is the customs clearance + security inspection area). There will be airport security guards at the entrance of the joint inspection area. Those who have a boarding pass can enter, which means that this is the last place for you and your relatives.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The third step&lt;/strong&gt;: &lt;br /&gt;
+ Security check out. After completing the customs declaration, the next step is to queue up (Immigration). Please take your passport (w/visa) and boarding pass. After the customs border officials check, you will stamp the passport with the “China Border Inspection”. After the customs clearance, a security check (X-ray scan) is carried out on the carry-on baggage, and the person must pass the probe door. Liquid items should be placed in clear plastic bags (provided by the airport) for separate safety checks. Laptops may also be required to be taken out of the bag and placed in a plastic basket alone. In the peak season of overseas travel, such as summer vacation, the customs clearance and security check will be long queues. Remember to make sure enough time for yourself. Don’t talk to your relatives and friends for a long time. As a result, the time will not be enough. If you find yourself can’t catch up with the plane, you can ask passengers to let you plug in the team or find the airport staff to get you to the front. After the security check, you will enter the airport’s control area (Airside, or Secure Area / Sterile Area). Find the boarding gate of your flight and wait in the appropriate waiting area, usually starting 45 minutes before departure. You don’t need to show your passport when you board the plane, just show your boarding pass.&lt;/p&gt;
+
+&lt;h2 id=&quot;fill-in-the-entry-form&quot;&gt;Fill in the entry form&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/flight-0.jpg&quot; alt=&quot;Form View&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In general, the flight attendant will issue this item declaration card during the flight. Of course, you can also download on the official website of the &lt;a href=&quot;https://www.cbp.gov/document/forms/form-6059b-customs-declaration-english-&quot;&gt;US Immigration Service&lt;/a&gt; Fillable. If you are leaving the country for the first time, it is recommended to download it in advance to prevent any doubt when filling in the plane.&lt;/p&gt;
+
+&lt;p&gt;In this form, a family or a couple can fill in only one piece, despite of basic personal information, it also asks if the baggage contains vegetables, fruits, meat, soil, etc. Please try to avoid carrying prohibited items. If you have to carry them, please be sure to declare them. If a family carries more than $10,000 in cash, you need to declare it truthfully~&lt;/p&gt;
+
+&lt;h2 id=&quot;customs&quot;&gt;Customs&lt;/h2&gt;
+&lt;p&gt;After getting off the plane, look for the arrival hall and queue up at the Non-U.S. Citzen or the team with Visitors. Submit the corresponding materials to the customs, and record fingerprints, answer the questions raised by the customs. Customs in general need to be reviewed by immigration officers and customs officers. The former mainly examines the qualifications for coming to the United States, while the latter examines the luggage. When it comes to you, first show the passport, I20, I94, and the customs declaration form to the immigration officer. The immigration officer will ask questions about the purpose of being in United States, the residence, and carrying cash. The F1 visa is one of the non-immigrant visas in the United States and is the type of visa held by all international students, whether high school, university or graduate student. When entering the United States, the Customs will make inquiries based on the type of visa and the school’s professional information on the I20. As long as the answer is true, the entry process is easy. Here are some common questions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your purpose of entering USA?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What school you are planning to study?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What major are you studying?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What year are you in school?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do you support your education?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;transfer&quot;&gt;Transfer&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Step 1.&lt;/strong&gt;   &lt;br /&gt;
+ After the plane is arrived at the airport, check the entrance at the airport. Regardless of whether your flight is transferred several times, the first stop after arriving in the United States will be subject to immigration inspection. International students are required to take the Visitor Pass, unless you have a green card or a US citizen, you can take other appropriate channels.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2.&lt;/strong&gt; &lt;br /&gt;
+ The US Customs staff will ask you the appropriate questions and ask you to take photos and record your fingerprints. Don’t worry that the customs staff will deliberately marry, as long as you don’t bring contraband, you can successfully pass the question if you answer the question truthfully. In general, Customs may ask if you have brought meat and wine, or ask you how much cash you have. During the security inquiry process, the customs will also check the student’s passport, visa and I20, which must be carried with you. In addition, it is also necessary to take off the glasses when taking pictures. When entering the fingerprint, according to the requirements of the staff, the fingerprints of the left and right hands are simultaneously recorded (four fingers are closed).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3.&lt;/strong&gt; &lt;br /&gt;
+ After passing the customs, you have to collect your own luggage. Find the baggage conveyor corresponding to the flight and wait to pick up your baggage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4.&lt;/strong&gt;    &lt;br /&gt;
+ Check the baggage again after picking up the baggage. This time, checked baggage will not be inspected. You only need to find the place where the checked baggage is according to the airport guide.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 5.&lt;/strong&gt;   &lt;br /&gt;
+ After checking the baggage, go to the boarding gate of the next flight. The information at the boarding gate will change at any time. Students should pay attention to the radio and check the airport electronic notice screen. It should be noted there. The transfer time will be sufficient. As long as the student arrives at the first stop and does not delay the time, he will not miss the second flight. However, the students will encounter the first flight delay, then there is a risk of missing the second flight. When a flight delay affects the transfer, the flight company will arrange the next flight for the student to ensure that the student can reach the destination. Therefore, students should not panic when they encounter flight delays.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-up-service&quot;&gt;Pick-up service&lt;/h2&gt;
+&lt;p&gt;Before arriving in Syracuse, you can contact local student organizations. In addition to the school’s freshman’s office, the school and some college student unions will also provide pick-up service. The pick-up from New York JFK airport to the temporary accommodation is about 50 dollars. The school provides safe and reliable services for the new students. Of course, it is better if you have a friend who is available to pick you up.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot; class=&quot;btn btn--primary&quot;&gt;homepage&lt;/a&gt;      &lt;a href=&quot;/newstudents/&quot; class=&quot;btn btn--primary&quot;&gt;Menu&lt;/a&gt;&lt;/p&gt;</content><author><name>iBranch</name><email>ibranchsyracuse@gmail.com</email></author><summary type="html">Booking guide Freshmen can check the ticket on the relevant website in advance when purchasing tickets. Generally speaking, tickets should be booked 3-6 weeks in advance. Starting dates for spring and fall semesters are different. The recommended time is to arrive in Syracuse should be one week before class. Most schools will have 3-7 days of fresh Orientation activities before the official start of the school, so it is best to know the exact time before starting the ticket purchase. At present, you can purchase international air tickets in the following ways: Purchasing points through third-party tickets: It is a window similar to train tickets and ticket sales points. In this way, the staff will charge extra fees, and many sales personnel in order to win a higher commission, students and parents are not really advised to buy a value-for-money ticket. Purchase through the official website of the company or official phone. Purchase through domestic Ctrip, Qunar: This kind of website is a third-party service platform. The comprehensive comparison is quite convenient, and you can shop around. But the bad thing is that although the price is cheaper than the sales window, but it is not cheap enough. Below are a few commonly used bookings for booking tickets. JFK Air train train greyhound flight</summary></entry><entry><title type="html">Luggage Guide</title><link href="http://localhost:4000/luggageguide/" rel="alternate" type="text/html" title="Luggage Guide" /><published>2019-07-13T00:00:00-04:00</published><updated>2019-07-13T00:00:00-04:00</updated><id>http://localhost:4000/luggage-guide</id><content type="html" xml:base="http://localhost:4000/luggageguide/">&lt;p&gt;&lt;strong&gt;Important list:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Passport&lt;/li&gt;
+  &lt;li&gt;Visa card&lt;/li&gt;
+  &lt;li&gt;Driving license&lt;/li&gt;
+  &lt;li&gt;I20&lt;/li&gt;
+  &lt;li&gt;Toefl，GRE，GMAT  Transcripts&lt;/li&gt;
+  &lt;li&gt;Certificate of Health Examination&lt;/li&gt;
+  &lt;li&gt;International Certificate of Vaccination&lt;/li&gt;
+  &lt;li&gt;School offer&lt;/li&gt;
+  &lt;li&gt;Undergraduate Transcript&lt;/li&gt;
+  &lt;li&gt;All the materials you prepared for the visa&lt;/li&gt;
+  &lt;li&gt;Crash&lt;/li&gt;
+  &lt;li&gt;Spare glasses&lt;/li&gt;
+  &lt;li&gt;Tissue&lt;/li&gt;
+  &lt;li&gt;Neck pillow&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;What you may need in your checked luggage&lt;/strong&gt;&lt;br /&gt;
+Syracuse is close to the Great Lakes region so its high precipitation，and this lead the temperature in Syracuse is low. It is snowy from October to April and rainy from May to September. You may need clothes looks like this:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Item&lt;/th&gt;
+      &lt;th&gt;Number&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sweater&lt;/td&gt;
+      &lt;td&gt;2-3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jeans&lt;/td&gt;
+      &lt;td&gt;2-3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Underwear, sox&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Down jacket&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jacket&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Baseball Jacket&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Trench&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T-shirt&lt;/td&gt;
+      &lt;td&gt;3-4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pajama&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Formal dress&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Flip flop&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;When you arrive at home at night, you cannot go to the supermarket, you may need&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Item&lt;/th&gt;
+      &lt;th&gt;Number&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sheets&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cover&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Quilt&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pillow&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Some small commodities are expensive in the US, you may need these&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Item&lt;/th&gt;
+      &lt;th&gt;Number&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Conversion plug&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nail clipper&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Flash&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Umbrella&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot; class=&quot;btn btn--primary&quot;&gt;homepage&lt;/a&gt;      &lt;a href=&quot;/newstudents/&quot; class=&quot;btn btn--primary&quot;&gt;Menu&lt;/a&gt;&lt;/p&gt;</content><author><name>iBranch</name><email>ibranchsyracuse@gmail.com</email></author><summary type="html">Important list: Passport Visa card Driving license I20 Toefl，GRE，GMAT Transcripts Certificate of Health Examination International Certificate of Vaccination School offer Undergraduate Transcript All the materials you prepared for the visa Crash Spare glasses Tissue Neck pillow</summary></entry></feed>
